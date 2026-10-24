@@ -8,4 +8,6 @@ Each tactic follows the structure in [CONTRIBUTING.md](../CONTRIBUTING.md#tactic
 
 ## Index
 
-_No tactics yet. [Submit one](https://github.com/bigpest/opc-hub/issues/new?template=new-tactic.md)._
+- [What a One-Person Company Can Actually Sell](what-to-sell.md) — five filters for choosing a direction, five categories that pass them, and what to avoid.
+
+_[Submit one](https://github.com/bigpest/opc-hub/issues/new?template=new-tactic.md)._
