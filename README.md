@@ -9,3 +9,27 @@ I began testing the one-person company model. No payroll, no board meetings, no 
 This repository collects all those hard-won tactics, case studies, decision frameworks and raw founder stories. Inside you will find idea validation workflows, MVP checklists, pricing templates, solo marketing channels, legal & admin notes, burnout prevention routines, and case studies from other successful OPC builders.
 
 This repo is for you if you want to build a business that serves your life, not the other way around. It is anti-hype, pro-profit, and built for people who prefer execution over fundraising. Contributions are welcome: share your wins, your failed experiments and your own solo founder story.
+
+## What's inside
+
+| Folder | Contents |
+|---|---|
+| [stories/](stories/) | First-hand accounts from solo founders — what they tried, what it cost, what worked |
+| [tactics/](tactics/) | Single-operator tactics: validation, pricing, distribution, legal & admin, burnout |
+| [playbooks/](playbooks/) | Copy-and-use checklists and templates |
+
+Start with the folder you need. Every content file is plain Markdown and links to related files, so you can read the repo as a set of connected notes rather than a linear book.
+
+## Contribute
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) first. Short version:
+
+- Share a story or tactic via the issue templates.
+- Fix typos and broken links with a direct pull request.
+- No ads, affiliate links or product pitches; no personal data about other people.
+
+Pull requests are reviewed in batches, usually once a week.
+
+## License
+
+[Apache-2.0](LICENSE). Contributions are accepted under the same terms.
