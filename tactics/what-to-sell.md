@@ -5,6 +5,8 @@ date: 2026-10-24
 tags: [business-models, solo-founder, validation]
 ---
 
+[中文](what-to-sell.zh.md)
+
 Most one-person companies do not fail because the idea is bad. They fail because the delivery model quietly assumes a team: someone to answer support, someone to sell, someone to fill in the gaps. The direction you pick decides whether one person can deliver at all.
 
 This is a filter to apply before you build anything.

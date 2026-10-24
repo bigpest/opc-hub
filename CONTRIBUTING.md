@@ -82,6 +82,7 @@ tags: [pricing, solo-founder]
 
 - Link to other files with relative links, e.g. `../tactics/pricing.md`.
 - Use a hosted image URL (or an image host) for screenshots. Do not commit large binaries.
+- Translations: keep the English file as the reference and add the translation as `<name>.zh.md`, with a one-line language link under the front matter on both files.
 - Anonymize people and companies you do not have permission to name. Remove phone numbers, addresses, emails and anything else identifying.
 
 ## Pull request workflow
