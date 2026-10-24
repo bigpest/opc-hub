@@ -20,6 +20,12 @@ This repo is for you if you want to build a business that serves your life, not 
 
 Start with the folder you need. Every content file is plain Markdown and links to related files, so you can read the repo as a set of connected notes rather than a linear book.
 
+## Share your story
+
+Welcome to OPC-Hub! You are warmly invited to share your one-person company stories, practical tactics, hard-won lessons and real business results here. Whether it is a successful case, a painful failure, a useful workflow, a pricing strategy or an operational trick, all authentic sharing is highly valued.
+
+Submit your contribution via a [pull request](CONTRIBUTING.md) or open an [issue](https://github.com/bigpest/opc-hub/issues/new/choose) for discussion. If you prefer to reach me directly, send an email to **guquanyou@yeah.net**.
+
 ## Contribute
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first. Short version:
